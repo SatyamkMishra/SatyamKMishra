@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam mishra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/satyam mishra](https://www.linkedin.com/in/satyam-mishra-265068237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam mishra" height="30" width="40" /></a>
 <a href="https://fb.com/satyam mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyam mishra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/satyamkmishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyamkmishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyam mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam mishra" height="30" width="40" /></a>
